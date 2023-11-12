@@ -6,6 +6,8 @@
 
 ![Viniocean GitHub stats](https://github-readme-stats.vercel.app/api?username=viniocean&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniocean&hide_progress=true)
+
 ## Tecnologias que uso no meu dia!🖥️
 
 <div style="display: inline_block"><br>
